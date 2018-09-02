@@ -3,7 +3,7 @@ Scoring Mechanism for picking best and worst currencies, Carry trade implementat
 
 *Picking Portfolio by Currency Scoring*
 
-Scoring Mechanism for the Currency Set consisting of 19 currencies.
+Scoring Mechanism for the Currency Set consisting of 18 currencies wrt to USD.
 
 Data set from Jan 2010.
 Periodicity of Rebalance : 3 Months (Quarter)

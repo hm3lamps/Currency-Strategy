@@ -2,6 +2,7 @@
 Scoring Mechanism for picking best and worst currencies, Carry trade implementation
 
 *Picking Portfolio by Currency Scoring*
+
 Scoring Mechanism for the Currency Set consisting of 19 currencies.
 
 Data set from Jan 2010.
